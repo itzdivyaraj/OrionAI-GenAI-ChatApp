@@ -2,6 +2,9 @@
 
 OrionAI is a ChatGPT-style AI chat application built with React that supports multiple conversations, persistent chat history, and real-time AI responses with a clean, modern UI.
 
+<img width="956" height="412" alt="image" src="https://github.com/user-attachments/assets/bca5ea56-c180-4f83-9648-4c50f66e48aa" />
+
+
 ### ✨ Features
 
 💬 ChatGPT-like interface
